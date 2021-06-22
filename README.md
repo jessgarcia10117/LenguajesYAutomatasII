@@ -2,11 +2,11 @@
 
 Presentado por: 
 
-• Arredondo Flores Alexa Ketzali - 181080005 - https://github.com/KetzaliF
+• Arredondo Flores Alexa Ketzali - 181080005 - https://github.com/KetzaliF - 33.3%
 
-• Bohorquez Lopez Miguel Angel - 181080006 - https://github.com/AngelBLK
+• Bohorquez Lopez Miguel Angel - 181080006 - https://github.com/AngelBLK - 33.3%
 
-• Rodríguez García Jesús - 181080027 - https://github.com/jessgarcia10117
+• Rodríguez García Jesús - 181080027 - https://github.com/jessgarcia10117 - 33.3%
 
 Materia - Lenguajes y Autómatas II
 
