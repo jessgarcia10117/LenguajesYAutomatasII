@@ -12,7 +12,7 @@ Materia - Lenguajes y Autómatas II
 
 Impartida por el profesor: Abiel Tomas Parra Hernández
 
-Este repositorio es un clon del repositorio compartido por la lider del preyecto (Ketzali) y sus colaboradores (Jesus y Miguel) 
+Este repositorio es un clon del repositorio compartido por la lider del proyecto (Ketzali) y sus colaboradores (Jesus y Miguel) 
 
 ## Resumen
 
